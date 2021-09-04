@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **hugo.forestier123@gmail.com**
 
+- 📄 My website [wwww.hugoforestier.com](wwww.hugoforestier.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/acty123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="acty123" height="30" width="40" /></a>
