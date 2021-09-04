@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hugo.forestier123@gmail.com**
 
-- 📄 My website [www.hugoforestier.com](www.hugoforestier.com)
+- 📄 My website [http://www.hugoforestier.com/](www.hugoforestier.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
