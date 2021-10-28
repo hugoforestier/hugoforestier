@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/acty123" target="blank"><img src="https://img.shields.io/twitter/follow/acty123?logo=twitter&style=for-the-badge" alt="acty123" /></a> </p>
 
-- 🔭 I’m currently working on **as many ctfs as I can**
+- 🔭 I’m currently working on **a pacman and school projects**
 
 - 📫 How to reach me **hugo.forestier123@gmail.com**
 
