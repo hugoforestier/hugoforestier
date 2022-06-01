@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/forestierhug0" target="blank"><img src="https://img.shields.io/twitter/follow/forestierhug0?logo=twitter&style=for-the-badge" alt="acty123" /></a> </p>
 
-- 🔭 I’m currently working on **a pacman and school projects**
 
 - 📫 How to reach me **hugo.forestier123@gmail.com**
-
-- 📄 My website [www.hugoforestier.com](www.hugoforestier.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
