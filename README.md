@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hugo Forestier</h1>
-<h3 align="center">A passionate Infosec student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoforestier&label=Profile%20views&color=0e75b6&style=flat" alt="hugoforestier" /> </p>
 
