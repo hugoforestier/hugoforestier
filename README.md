@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hugo Forestier</h1>
+# Hi :wave:, I'm Hugo Forestier
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hugoforestier&label=Profile%20views&color=0e75b6&style=flat" alt="hugoforestier" /> </p>
-<h4 align="left">Connect with me:</h4>
-<p align="center">
-	<a href="https://twitter.com/forestierhug0"><img src="imgs/twitter.svg" alt="Twitter"></a>
-	<a href="https://linkedin.com/in/hugo-forestier-0993a317b/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
-	<a rel="me" href="https://linkedin.com/in/hugo-forestier-0993a317b/"><img src="imgs/mastodon.svg" alt="Mastodon"></a>
-</p>
+:cupid: [Neovim](https://github.com/neovim/neovim) and infosec enthusiast \
+:seedling: 5th year student @Epitech & intern @Imhotep-SynApp 
+
+[<img src="https://github.com/hussainweb/hussainweb/blob/main/icons/twitter.png" width="18px" height="auto"> Twitter](https://twitter.com/forestierhug0) \
+[<img src="https://github.com/hussainweb/hussainweb/blob/main/icons/linkedin.png" width="18px" height="auto"> Linkedin](https://linkedin.com/in/hugo-forestier-0993a317b/) \
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" width="18px" height="auto"> Mastodon](https://infosec.exchange/@forestierhugo)
+
+
+<img src="https://komarev.com/ghpvc/?username=hugoforestier&label=Profile%20views&color=0e75b6&style=flat">
